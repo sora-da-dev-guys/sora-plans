@@ -4,7 +4,7 @@ Centralized implementation plans for Sora Da Dev Guys projects, managed by Minna
 
 ## Plan ID Format
 
-`MINNA-YY<seq>` — e.g. `MINNA-26001`
+`SORA-YY<seq>` — e.g. `SORA-26001`
 - `YY` = 2-digit year
 - `<seq>` = 3-digit sequential number (global across all repos)
 
@@ -18,4 +18,4 @@ draft → ready → working → reviewing → done
 
 | ID | Repo | Feature | Status |
 |----|------|---------|--------|
-| [MINNA-26001](./MINNA-26001.md) | smartbackoffice | Sales Order List Page | ready |
+| [SORA-26001](./SORA-26001.md) | smartbackoffice | Sales Order List Page | ready |

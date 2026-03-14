@@ -1,11 +1,11 @@
 {
   "plans": [
     {
-      "id": "MINNA-26001",
+      "id": "SORA-26001",
       "repo": "smartbackoffice",
       "title": "Sales Order List Page",
       "status": "ready",
-      "path": "MINNA-26001.md",
+      "path": "SORA-26001.md",
       "created": "2026-03-14",
       "updated": "2026-03-14",
       "work_state": {

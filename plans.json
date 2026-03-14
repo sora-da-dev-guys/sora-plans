@@ -43,13 +43,13 @@
       "id": "SORA-26004",
       "repo": "smartbackoffice",
       "title": "Product List Page Improvements",
-      "status": "working",
+      "status": "reviewing",
       "path": "SORA-26004.md",
       "created": "2026-03-14",
       "updated": "2026-03-14",
       "work_state": {
         "branch": "feat/SORA-26004-product-list-improvements",
-        "pr_link": null
+        "pr_link": "https://github.com/sora-da-dev-guys/smartbackoffice/pull/13"
       }
     }
   ]

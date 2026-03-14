@@ -1,4 +1,4 @@
-# minna-plan 🌸
+# sora-plans 🌸
 
 Centralized implementation plans for Sora Da Dev Guys projects, managed by Minna AI.
 

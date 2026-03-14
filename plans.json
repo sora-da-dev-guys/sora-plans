@@ -17,13 +17,13 @@
       "id": "SORA-26002",
       "repo": "smartbackoffice",
       "title": "Customer List Page Improvements",
-      "status": "working",
+      "status": "reviewing",
       "path": "SORA-26002.md",
       "created": "2026-03-14",
       "updated": "2026-03-14",
       "work_state": {
         "branch": "feat/SORA-26002-customer-list-improvements",
-        "pr_link": null
+        "pr_link": "https://github.com/sora-da-dev-guys/smartbackoffice/pull/11"
       }
     },
     {

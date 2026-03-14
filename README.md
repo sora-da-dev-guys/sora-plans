@@ -19,3 +19,4 @@ draft → ready → working → reviewing → done
 | ID | Repo | Feature | Status |
 |----|------|---------|--------|
 | [SORA-26001](./SORA-26001.md) | smartbackoffice | Sales Order List Page | ready |
+| [SORA-26002](./SORA-26002.md) | smartbackoffice | Customer, Quotation, and Product List Pages | ready |

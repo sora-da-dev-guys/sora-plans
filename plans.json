@@ -25,6 +25,32 @@
         "branch": null,
         "pr_link": null
       }
+    },
+    {
+      "id": "SORA-26003",
+      "repo": "smartbackoffice",
+      "title": "Quotation List Page",
+      "status": "ready",
+      "path": "SORA-26003.md",
+      "created": "2026-03-14",
+      "updated": "2026-03-14",
+      "work_state": {
+        "branch": null,
+        "pr_link": null
+      }
+    },
+    {
+      "id": "SORA-26004",
+      "repo": "smartbackoffice",
+      "title": "Product List Page Improvements",
+      "status": "draft",
+      "path": "SORA-26004.md",
+      "created": "2026-03-14",
+      "updated": "2026-03-14",
+      "work_state": {
+        "branch": null,
+        "pr_link": null
+      }
     }
   ]
 }

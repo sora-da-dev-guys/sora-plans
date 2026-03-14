@@ -12,6 +12,19 @@
         "branch": "feat/SORA-26001-sale-order-list",
         "pr_link": null
       }
+    },
+    {
+      "id": "SORA-26002",
+      "repo": "smartbackoffice",
+      "title": "Customer List Page Improvements",
+      "status": "ready",
+      "path": "SORA-26002.md",
+      "created": "2026-03-14",
+      "updated": "2026-03-14",
+      "work_state": {
+        "branch": null,
+        "pr_link": null
+      }
     }
   ]
 }

@@ -4,12 +4,12 @@
       "id": "SORA-26001",
       "repo": "smartbackoffice",
       "title": "Sales Order List Page",
-      "status": "ready",
+      "status": "working",
       "path": "SORA-26001.md",
       "created": "2026-03-14",
       "updated": "2026-03-14",
       "work_state": {
-        "branch": null,
+        "branch": "feat/SORA-26001-sale-order-list",
         "pr_link": null
       }
     }

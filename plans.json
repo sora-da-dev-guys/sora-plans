@@ -54,9 +54,9 @@
     },
     {
       "id": "SORA-26005",
-      "repo": "smartbackoffice",
+      "repo": "smartbestbuys-backoffice",
       "title": "User List Page",
-      "status": "ready",
+      "status": "reviewing",
       "path": "SORA-26005.md",
       "created": "2026-03-16",
       "updated": "2026-03-17",

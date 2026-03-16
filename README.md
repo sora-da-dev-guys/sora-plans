@@ -22,4 +22,4 @@ draft → ready → working → reviewing → done
 | [SORA-26002](./SORA-26002.md) | smartbackoffice | Customer List Page Improvements | ready |
 | [SORA-26003](./SORA-26003.md) | smartbackoffice | Quotation List Page | draft |
 | [SORA-26004](./SORA-26004.md) | smartbackoffice | Product List Page Improvements | draft |
-| [SORA-26005](./SORA-26005.md) | smartbestbuys-backoffice | User List Page | draft |
+| [SORA-26005](./SORA-26005.md) | smartbackoffice | User List Page | ready |

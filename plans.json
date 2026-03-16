@@ -56,13 +56,13 @@
       "id": "SORA-26005",
       "repo": "smartbackoffice",
       "title": "User List Page",
-      "status": "working",
+      "status": "reviewing",
       "path": "SORA-26005.md",
       "created": "2026-03-16",
       "updated": "2026-03-17",
       "work_state": {
         "branch": "feat/SORA-26005-user-list-page",
-        "pr_link": "https://github.com/sora-da-dev-guys/smartbestbuys-backoffice/pull/898"
+        "pr_link": "https://github.com/sora-da-dev-guys/smartbackoffice/pull/15"
       }
     }
   ]
